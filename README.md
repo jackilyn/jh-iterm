@@ -1,6 +1,8 @@
 # jh-iterm
 An iTerm color preset theme.
 
+![Preview](http://jackilyn.github.io/jh-iterm/jh-iterm-preview.png)
+
 # Usage
 1. Download this repo.
 2. Open up iTerm, go to Preferences > Profiles > Colors.
